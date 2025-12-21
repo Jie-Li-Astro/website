@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Physics, The University of Texas at San Antonio, advisor: Dr. Thayne Currie, (2025 - 2030) (expected)
+* B.S. in Astronomy, Yunnan University, advisor: Dr. Zhongxiang Wang and Dr. Yang Huang, (2018 - 2022)
 
 Work experience
 ======
