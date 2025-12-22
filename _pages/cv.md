@@ -19,6 +19,18 @@ Education
   **Advisor:** [Dr. Zhongxiang Wang](https://orcid.org/0000-0003-1984-3852) & [Dr. Yang Huang](https://www.yanghuang25.com/) <br>
   **Research Areas:** AGN, TDE
 
+Research experience
+======
+* Fall 2025: Algebra-based Physics I Laboratory
+  * The University of Texas at San Antonio
+  * Graduate Teaching Assistant
+  * Supervisor: Mr. Christopher Dunn
+
+* Fall 2021: Introduction to High Energy Astrophysics
+  * Yunnan University
+  * Teaching Assistant
+  * Supervisor: Dr. Zhongxiang Wang
+
 Teaching experience
 ======
 * Fall 2025: Algebra-based Physics I Laboratory
@@ -43,18 +55,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
