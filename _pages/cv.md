@@ -16,7 +16,7 @@ Education
   **Research Areas:** Exoplanet, Direct Imaging <br>
   
 * **B.S.** in Astronomy, Yunnan University, (2018 - 2022) <br>
-  **Advisor:** Dr. Zhongxiang Wang & Dr. Yang Huang <br>
+  **Advisor:** [Dr. Zhongxiang Wang](https://orcid.org/0000-0003-1984-3852) & [Dr. Yang Huang](https://www.yanghuang25.com/) <br>
   **Research Areas:** AGN, TDE
 
 Teaching experience
