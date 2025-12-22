@@ -21,3 +21,15 @@ Please explore this site to learn more about my research and publications. Also 
   <br>
   <small>Image credit: NASA</small>
 </p>
+
+<p align="center">
+  <img src="/images/exo_1.jpg" alt="NASA image" style="width:100%; max-width:800px;">
+  <br>
+  <small>Image credit: NASA</small>
+</p>
+
+<p align="center">
+  <img src="/images/exo_1.jpg" alt="NASA image" style="width:100%; max-width:800px;">
+  <br>
+  <small>Image credit: NASA</small>
+</p>
