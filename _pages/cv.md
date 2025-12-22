@@ -19,22 +19,11 @@ Education
   **Advisor:** Dr. Zhongxiang Wang & Dr. Yang Huang <br>
   **Research Areas:** AGN, TDE
 
-Work experience
+Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2025: PHY-1611-010-Fall 2025-Algebra-based Physics I Laboratory
+  * The University of Texas at San Antonio
+  * Supervisor: Christopher Dunn
   
 Skills
 ======
