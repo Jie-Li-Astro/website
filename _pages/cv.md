@@ -46,10 +46,12 @@ Research experience
 * **Project:** Development of LHAASO-WFCTA Camera (2020 - 2022)
   
   **Advisor:** Dr. Maomao Ge
+
+  **Collaborators:** Ms. Zhengya Gu, Yunao Xiao, Siyuan Want et al.
   
-  * Searched for optical dual-core objects accompanied by radio or X-ray radiation as dual AGN candidates.
-  * Applied the Lijiang 2.4m telescope to obtain two-dimensional spectra of dual AGN candidates.
-  * Identified three new dual AGNs.
+  * Tested SiPM linearity and assembled the LHAASO-WFCTA camera.
+  * Proposed the potential impact of skylight background on SiPM linearity.
+  * Constructed the SiPM linearity function under varying skylight background conditions.
 
 Teaching experience
 ======
