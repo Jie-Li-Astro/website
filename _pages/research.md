@@ -19,11 +19,7 @@ Three cases of optical periodic modulation in Active Galactic Nuclei
 ======
 We report on the case of optical periodic modulation discovered in two Active Galactic Nuclei (AGN) and one candidate AGN. Analysing the archival optical data obtained from large transient surveys, namely the Catalina Real-Transient Survey (CRTS) and the Zwicky Transient Facility (ZTF), we find periodicities of 2169.7, 2103.1, and 1462.6 d in sources J0122 + 1032, J1007 + 1248 (or PG 1004 + 1248), and J2131 - 1127, respectively. The optical spectra of the first two indicate that the first is likely a blazar and the second a type 1 Seyfert galaxy, and while no spectroscopic information is available for the third one, its overall properties suggest that it is likely an AGN. In addition, mid-infrared (MIR) light-curve data of the three sources, taken by the Wide-field Infrared Survey Explorer (WISE), are also analysed. The light curves show significant variations, but not appearing related to the optical periodicities. Based on the widely discussed supermassive black hole binary (SMBHB) scenario, we discuss the origin of the optical modulation. Two possible interesting features, an additional 162-d short optical periodicity in J2131 - 1127 and the consistency of the X-ray flux variations of J1007 + 1248 with its optical periodicity, are also discussed within the SMBHB scenario.
 
-<p align="center">
-  <img src="https://Jie-Jay-Lee.github.io/website/images/exo_2.jpg" alt="Figure 1. Optical light curve of the source. Image adapted from [Smith et al.]("https://ui.adsabs.harvard.edu/abs/2023RAA....23b5012L/abstract")" style="width:100%; max-width:800px;">
-  <br>
-  <small>Image credit: NASA</small>
-</p>
+
 
 AT2021acak: a Candidate Tidal Disruption Event Found in the Zwicky Transient Facility Survey
 ======
@@ -31,14 +27,14 @@ We report a candidate tidal disruption event (TDE) found in the Zwicky Transient
 
 <p align="center">
   <img src="https://jie-jay-lee.github.io/website/images/exo_2.jpg"
-       alt="Figure 1. Optical light curve of the source. Image adapted from Smith et al. (2023)."
+       alt="Figure 1. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days. Image adapted from Li et al. (2023)."
        style="width:100%; max-width:800px;">
   <br>
   <small>
     Figure 1. Optical light curve of the source. 
     Image adapted from 
-    <a href="https://ui.adsabs.harvard.edu/abs/2023RAA....23b5012L/abstract" target="_blank">
-      Smith et al. (2023)
+    <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2928L/abstract" target="_blank">
+      Li et al. (2023)
     </a>.
   </small>
 </p>
