@@ -16,7 +16,7 @@ Jointly analyzing radial-velocity data drawn from multiple instruments and preci
 
 <p align="center">
   <img src="https://Jie-Jay-Lee.github.io/website/images/research_1.png"
-       style="width:30%; max-width:800px;">
+       style="width:40%; max-width:800px;">
   <br>
   <small>
 </p>
