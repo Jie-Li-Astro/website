@@ -14,6 +14,13 @@ Using Astrometry and RV to Identify New Exoplanets and Brown Dwarfs Amenable to 
 ======
 Jointly analyzing radial-velocity data drawn from multiple instruments and precision astrometry helps to better constrain dynamical masses and orbits of Jovian planets and brown dwarfs. By cross-matching the Hipparcos Gaia Catalogue of Accelerations (HGCA) with RV data, we have identified a sample of accelerating stars with RV trends with a wide range of estimated ages. Using the orbit fitting code orvara to jointly model these RV data and precision astrometry from the HGCA, we confirm thirteen systems with newly-discovered massive exoplanets and brown dwarf companions. We assess the detectability of these companions with current ground-based extreme AO platforms, JWST, and Roman to confirm and characterize the nature of the companions.
 
+<p align="center">
+  <img src="https://Jie-Jay-Lee.github.io/website/images/research_1.png"
+       style="width:100%; max-width:800px;">
+  <br>
+  <small>
+</p>
+    Figure 1. Joint modeling of astrometry and radial-velocity data for one candidate companion, showing the best-fit orbit and predicted future positions on the sky.
 
 Three cases of optical periodic modulation in Active Galactic Nuclei
 ======
