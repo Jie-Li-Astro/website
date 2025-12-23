@@ -64,9 +64,9 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
     </a>.
   </small>
 </p>
-    Figure 4. These changing-look AGNs exhibit a brighter-and-bluer trend during their turn-on phases, suggesting that color-based criteria can be used to systematically identify changing-look AGNs. Subsequent follow-up studies
+    Figure 4. These changing-look AGNs exhibit a brighter-and-bluer trend during their turn-on phases, suggesting that color-based criteria can be used to systematically identify changing-look AGNs. Subsequent follow-up studies,
     <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2715Z/abstract" target="_blank">
-      (Zhu et al. (2025))
+      Zhu et al. (2025)
     </a>
     demonstrate the high efficiency of this method.
     
