@@ -28,9 +28,9 @@ We report on the case of optical periodic modulation discovered in two Active Ga
     <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2928L/abstract" target="_blank">
       Li et al. (2023a)
     </a>.
-    Figure 2. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days, indicating a potential supermassive black hole binary. 
-  </small>
+    </small>
 </p>
+    Figure 2. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days, indicating a potential supermassive black hole binary. 
 
 AT2021acak: a Candidate Tidal Disruption Event Found in the Zwicky Transient Facility Survey
 ======
