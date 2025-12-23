@@ -27,7 +27,7 @@ Research experience
   Collaborator: Litao Zhu
   
   * Identified Fermi-LAT blazars counterparts based on the correlation of gamma and optical light curves.
-  * Discovered three AGNs with optical periodic modulation based on ZTF and CRTS light curves, suggesting a merging supermassive black hole binary. One of the AGNs even showed potential periodic modulation in X-rays.
+  * Discovered three AGNs with optical periodic modulation based on ZTF and CRTS light curves, suggesting merging supermassive black hole binaries. One of the AGNs even showed potential periodic modulation in X-rays.
   * Identified a rare candidate AGN TDE based on the light curves from ZTF, ATLAS, and NEOWISE, which exhibited the emergence of coronal lines after an optical flare.
   * Identified four changing-look AGNs. Several of them were previously classified as type 2 AGNs in SDSS spectra but exhibited bluer-when-brighter behavior in recent light curves, which is the characteristic of type 1 AGNs.
   * Proposed a new method to identify changing-look AGNs by searching for type 2 AGNs in SDSS spectra that exhibit bluer-when-brighter behavior in recent light curves (Color-magnitude Pattern). Follow-up observations demonstrated its high efficiency.
