@@ -21,7 +21,7 @@ Education
 
 Research experience
 ======
-* **Project:** Understanding Long-Term Large Flux Variations Seen in AGNs
+* **Project:** Understanding Long-Term Large Flux Variations Seen in AGNs (2021 - 2025)
   
   **Advisor:** Zhongxiang Wang
   
