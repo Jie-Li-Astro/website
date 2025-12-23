@@ -24,7 +24,7 @@ We report on the case of optical periodic modulation discovered in two Active Ga
        style="width:100%; max-width:800px;">
   <br>
   <small>
-    Image from 
+    Figure from 
     <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2928L/abstract" target="_blank">
       Li et al. (2023a)
     </a>.
@@ -41,7 +41,7 @@ We report a candidate tidal disruption event (TDE) found in the Zwicky Transient
        style="width:100%; max-width:800px;">
   <br>
   <small>
-    Image from 
+    Figure from 
     <a href="https://ui.adsabs.harvard.edu/abs/2023RAA....23b5012L/abstract" target="_blank">
       Li et al. (2023b)
     </a>.
@@ -59,7 +59,7 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
        style="width:100%; max-width:800px;">
   <br>
   <small>
-    Image from 
+    Figure from 
     <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3538Z/abstract" target="_blank">
       Zhu et al. (2023)
     </a>.
