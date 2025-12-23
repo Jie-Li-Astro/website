@@ -111,7 +111,7 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
 
 Development of LHAASO-WFCTA Camera
 ======
-I contributed to the development of the camera system for the Wide Field-of-view Cherenkov Telescope Array of the Large High Altitude Air Shower Observatory, with a focus on the linearity performance of silicon photomultipliers (SiPMs). My work included testing SiPM linearity, assembling the camera system, and investigating the impact of skylight background on detector performance.
+I contributed to the development of the camera system for the Wide Field-of-view Cherenkov Telescope Array of the Large High Altitude Air Shower Observatory (LHAASO-WFCTA), with a focus on the linearity performance of silicon photomultipliers (SiPMs). My work included testing SiPM linearity, assembling the camera system, and investigating the impact of skylight background on detector performance.
 
 <p align="center">
   <img src="https://Jie-Li-Astro.github.io/website/images/research_5.png"
