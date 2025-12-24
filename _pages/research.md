@@ -121,7 +121,7 @@ We conducted a study on the discovery and identification of kiloparsec-scale dua
 <p align="center">
   <small>
     <strong>Figure 5.</strong>
-    Group photo of the final "LHAASO-WFCTA Camera" after assembly, now successfully operating in Daocheng, Garzê Tibetan Autonomous Prefecture, Sichuan, China.
+    Narrow-line AGNs identified using the diagnostic emission-line diagram.
   </small>
 </p>
 
