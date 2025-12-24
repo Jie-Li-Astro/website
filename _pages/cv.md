@@ -34,7 +34,7 @@ Research experience
   * Jointly modeled radial-velocity measurements and precision astrometry from HGCA using the orbit-fitting code orvara, constraining the dynamical masses and orbital parameters of the companions.
   * Evaluated the detectability of these companions with current and future direct imaging facilities, including ground-based extreme adaptive optics systems and space-based high-contrast imaging missions.
     
-* **Project:** Understanding Long-Term Large Flux Variations Seen in AGNs (2021 - 2025)
+* **Project:** Understanding Long-Term Large Flux Variations Seen in AGNs (2021 - 2024)
   
   **Advisor:** Dr. Zhongxiang Wang
   
