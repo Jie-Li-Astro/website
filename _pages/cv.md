@@ -13,7 +13,7 @@ This is my full [CV](https://Jie-Li-Astro.github.io/website/CV_12_22_2025.pdf) (
 
 Education
 ======
-* **Ph.D.** in Physics, The University of Texas at San Antonio, (2025 - current) <br>
+* **Ph.D.** in Physics, The University of Texas at San Antonio, (2025 - Present) <br>
   **Advisor:** [Dr. Thayne Currie](https://subarutelescope.org/staff/currie/) <br>
   **Research Areas:** Exoplanet, Direct Imaging <br>
   
@@ -23,7 +23,7 @@ Education
 
 Research experience
 ======
-* **Project:** Using Astrometry and RV to Identify New Exoplanets and Brown Dwarfs Amenable to High-Contrast Imaging From the Ground and Space (2025 - Current)
+* **Project:** Using Astrometry and RV to Identify New Exoplanets and Brown Dwarfs Amenable to High-Contrast Imaging From the Ground and Space (2025 - Present)
   
   **Advisor:** Dr. Thayne Currie
   
