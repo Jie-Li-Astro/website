@@ -109,6 +109,11 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
   </small>
 </p>
 
+Systematic Searching for Dual AGNs
+======
+We conducted a study on the discovery and identification of kiloparsec-scale dual active galactic nuclei (Dual AGN) systems, aiming to investigate galaxy mergers and the co-evolution of supermassive black holes and their host galaxies. To identify promising Dual AGN candidates, we searched for close galactic pairs in SDSS optical images to target systems likely in an ongoing merger stage, and further cross-matched these sources with the FIRST radio survey, selecting objects with multiple radio components to increase the probability of nuclear activity. Follow-up spectroscopic observations and emission-line analysis were then performed, through which three Dual AGN candidates were spectroscopically confirmed.
+
+
 Development of LHAASO-WFCTA Camera
 ======
 I contributed to the development of the camera system for the Wide Field-of-view Cherenkov Telescope Array of the Large High Altitude Air Shower Observatory (LHAASO-WFCTA). My work included testing silicon photomultiplier (SiPM) linearity, assembling the camera system, and investigating the impact of skylight background on detector performance.
