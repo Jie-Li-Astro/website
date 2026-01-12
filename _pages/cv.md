@@ -60,7 +60,7 @@ Research experience
   
   **Advisor:** Dr. Maomao Ge
 
-  **Collaborators:** Ms. Zhengya Gu, Mr. Yunao Xiao, Mr. Siyuan Want et al.
+  **Collaborators:** Ms. Zhengya Gu, Mr. Yunao Xiao, Mr. Siyuan Wang et al.
   
   * Tested SiPM linearity and assembled the LHAASO-WFCTA camera.
   * Proposed the potential impact of skylight background on SiPM linearity.
