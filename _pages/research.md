@@ -16,7 +16,7 @@ Using Astrometry and RV to Identify New Exoplanets and Brown Dwarfs Amenable to 
 Direct imaging surveys capable of probing the exoplanet population beyond the ice line have been plagued by a low rate of discoveries.  Recently, efforts have switched to dynamics-selected surveys, primarily focused on imaging systems showing dynamical evidence for a planet from Hipparcos and Gaia astrometry (e.g. Currie et al. 2023, 2025; Mesa et al. 2023).  Precision radial-velocity (RV) data may also reveal planets directly or hint at them (e.g. long-term RV trends; Crepp et al. 2014), especially for planets around older stars accessible with JWST or ELTs in thermal emission or Roman and HWO in reflected light.  We have initiated a large campaign to identify new planets and low-mass brown dwarfs from newly-available precision RV data for this purpose.
 
 <p align="center">
-  <img src="https://Jie-Li-Astro.github.io/website/images/research_11.png"
+  <img src="https://Jie-Li-Astro.github.io/website/images/research_17.png"
        style="width:40%; max-width:800px;">
 </p>
 
