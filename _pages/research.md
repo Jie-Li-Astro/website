@@ -17,13 +17,13 @@ Direct imaging surveys capable of probing the exoplanet population beyond the ic
 
 <p align="center">
   <img src="https://Jie-Li-Astro.github.io/website/images/research_17.png"
-       style="width:40%; max-width:800px;">
+       style="width:50%; max-width:800px;">
 </p>
 
 <p align="center">
   <small>
     <strong>Figure 1.</strong>
-    Joint modeling of astrometry and radial-velocity data for one candidate companion, showing the best-fit orbit and predicted future positions on the sky.
+    Radial-velocity curves for several candidate companions. For one representative system, we also show the joint astrometric and radial-velocity orbital solution, including the best-fit orbit and predicted future sky positions.
   </small>
 </p>
 
