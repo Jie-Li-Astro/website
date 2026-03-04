@@ -27,7 +27,7 @@ Research experience
   
   **Advisor:** Dr. Thayne Currie
   
-  **Collaborator:** Dr. Yiting Li
+  **Collaborator:** Dr. Yiting Li, Dr. Mona El Morsy
   
   * Searched for stars exhibiting significant astrometric accelerations using the Hipparcos–Gaia Catalogue of Accelerations (HGCA).
   * Identified systems with both astrometric acceleration signals and long-term radial-velocity trends.
@@ -38,7 +38,7 @@ Research experience
   
   **Advisor:** Dr. Zhongxiang Wang
   
-  **Collaborators:** Mr. Litao Zhu, Ms. Sisi Sun, Dr. Dong Zheng et al.
+  **Collaborators:** Mr. Litao Zhu, Dr. Sisi Sun, Dr. Dong Zheng et al.
   
   * Identified Fermi-LAT blazars counterparts based on the correlation of gamma and optical light curves.
   * Discovered three AGNs with optical periodic modulation based on ZTF and CRTS light curves, suggesting merging supermassive black hole binaries. One of the AGNs even showed potential periodic modulation in X-rays.
