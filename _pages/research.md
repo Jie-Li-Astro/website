@@ -17,7 +17,7 @@ Direct imaging surveys capable of probing the exoplanet population beyond the ic
 
 <p align="center">
   <img src="https://Jie-Li-Astro.github.io/website/images/research_17.png"
-       style="width:50%; max-width:800px;">
+       style="width:80%; max-width:800px;">
 </p>
 
 <p align="center">
