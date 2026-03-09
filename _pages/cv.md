@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is my full [CV](https://Jie-Li-Astro.github.io/website/CV_12_23_2025.pdf) (updated 12/23/2025). 
+This is my full [CV](https://Jie-Li-Astro.github.io/website/CV_03_09_2026.pdf) (updated 03/09/2026). 
 
 Education
 ======
